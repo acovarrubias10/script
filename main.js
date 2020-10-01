@@ -18,7 +18,7 @@ class Main {
             console.log("Sueldo " + nuevoSueldo)
         }
         else if (sueldo > 1500){
-            let nuevoSueldo =(sueldo*1.08)
+            let nuevoSueldo =(sueldo*1.05)
             console.log("Sueldo " + nuevoSueldo)
         }
     }
